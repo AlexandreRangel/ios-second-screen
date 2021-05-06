@@ -19,3 +19,6 @@ entry code for the ios plugin is:
 ./plugins/de.fhg.fokus.famium.presentation/src/ios/CDVPresentationPlugin.m
 
  [![1](Screenshots/e1918b6a-65e0-4939-9f72-9b525eb8dcce.jpeg)](Screenshots/e1918b6a-65e0-4939-9f72-9b525eb8dcce.jpeg)
+ (main screen)
+ [![1](Screenshots/5b177c1a-dee5-4cc1-a49a-f5368e6bbf43.jpeg)](Screenshots/5b177c1a-dee5-4cc1-a49a-f5368e6bbf43.jpeg)
+ (second screen)
