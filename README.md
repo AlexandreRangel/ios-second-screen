@@ -17,3 +17,5 @@ The problem is not possible to reproduce using a virtual external display on xco
 
 entry code for the ios plugin is:
 ./plugins/de.fhg.fokus.famium.presentation/src/ios/CDVPresentationPlugin.m
+
+ [![1](Screenshots/e1918b6a-65e0-4939-9f72-9b525eb8dcce.jpeg)](Screenshots/e1918b6a-65e0-4939-9f72-9b525eb8dcce.jpeg)
