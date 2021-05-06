@@ -1,16 +1,13 @@
+
+```bash
 sudo npm install -g cordova
-
 git clone https://github.com/fraunhoferfokus/cordova-plugin-presentation-helloapp
-
 cd cordova-plugin-presentation-helloapp
-
 cordova platform add ios
-
 cordova plugin add cordova-plugin-presentation
-
 cordova build ios
-
 cordova run ios
+```
 
 
 Steps to reproduce the problem:
